@@ -1,3 +1,3 @@
 # Assignemt1
-
-to start just open in vs code and start the live server 
+Download the file 
+to start just open the file in vs code and start the live server 
